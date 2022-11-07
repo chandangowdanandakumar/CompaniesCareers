@@ -16,9 +16,9 @@
 
 [Samsung]()
 
-[]()
+[mercedes]()
 
-[]()
+[mckinsey](https://www.mckinsey.com/careers/search-jobs?countries=United%20States)
 
 []()
 
