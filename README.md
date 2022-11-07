@@ -14,7 +14,7 @@
 
 [Expedia Mobile](https://careers.expediagroup.com/jobs/job/?2023+New+Graduate+-+Mobile+Engineer+I-Austin-Texas-j-R-77740)
 
-[]()
+[Samsung]()
 
 []()
 
