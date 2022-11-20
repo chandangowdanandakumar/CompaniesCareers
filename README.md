@@ -30,6 +30,13 @@
 
 [coca-cola company](https://careers.coca-colacompany.com/)
 
+[hcl tech](https://www.hcltech.com/careers/all-career-opportunities)
+[rokt](https://www.rokt.com/careers/#current-opportunities)
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 
 
