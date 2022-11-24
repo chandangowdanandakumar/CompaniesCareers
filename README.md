@@ -22,7 +22,7 @@
 
 [bmw](https://www.bmwgroup.jobs/us/en.html)
 
-[Aurora]()
+[Aurora](https://aurora.tech/careers)
 
 [Cisco](https://jobs.cisco.com/jobs/SearchJobs/)
 
