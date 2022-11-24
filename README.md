@@ -24,7 +24,7 @@
 
 [Aurora]()
 
-[Cisco]()
+[Cisco](https://jobs.cisco.com/jobs/SearchJobs/)
 
 [palo alto networks](https://jobs.paloaltonetworks.com/en/jobs/)
 
