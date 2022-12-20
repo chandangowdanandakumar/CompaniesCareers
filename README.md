@@ -1,5 +1,6 @@
 ### Links to Career Pages of Companies
 
+[intuit](https://jobs.intuit.com/search-jobs)
 
 [roblox](https://jobs.roblox.com/careers)
 
